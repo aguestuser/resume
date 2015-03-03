@@ -1,0 +1,130 @@
+{
+  "basics": {
+    "name": "Austin Guest",
+    "label": "Programmer",
+    "picture": "http://badideafactory.net/img/hsPic.jpg",
+    "email": "guest.austin@gmail.com",
+    "phone": "831.917.6400",
+    "website": "http://github.com/aguestuser",
+    "summary": "Self-taught full-stack programmer who has learned four languages, test-driven development, Agile,  and functional programming in just under two years. Looking to continue building my toolkit and work on distributed systems with a team of friendly inquisitive people that are looking for a fast learner.",
+    "location": {
+      "address": "1407 Dean St., Apt 1",
+      "postalCode": "11216",
+      "city": "Brooklyn",
+      "countryCode": "US",
+      "region": "New York"
+    },
+    "profiles": [
+      {
+        "network": "Github",
+        "username": "aguestuser",
+        "url": "http://github.com/aguestuser"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "austinguest",
+        "url": "https://www.linkedin.com/in/austinguest"
+      },
+      {
+        "network": "Twitter",
+        "username": "aguestuser",
+        "url": "https://https://twitter.com/aguestuser"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Hacker School",
+      "position": "Autodidact",
+      "website": "http://hackerschool.com",
+      "startDate": "2014-11-17",
+      "endDate": "2015-02-16",
+      "summary": "Mastered basic best practices in functional programming in Scala and JavaScript",
+      "highlights": [
+        "Wrote non-blocking chat server in Scala, using futures and a custom wrapper around Java’s NIO2 library",
+        "Began work on a Scala BitTorrent client, including custom parser combinators and non-blocking socket IO",
+        "Wrote Node app for parsing and storing real estate data using a recursive interpreter pattern to enhance composability",
+        "Completed readings and exercises on algorithms, data structures, function composition, monads, concurrency, and recursion"
+      ]
+    },
+    {
+      "company": "BK Shift",
+      "position": "Software Engineer",
+      "website": "http://bkshift.com",
+      "startDate": "2014-01-01",
+      "endDate": "2014-11-07",
+      "summary": "Learned full-stack web development, test-driven development, and agile project management",
+      "highlights": [
+        "Learned Ruby and built full-stack Rails app in 3 months",
+        "Automated conflict-checking and shift allocation procecures",
+        "Reduced time needed to allocate 300-400 weekly shifts to 100-150 riders by over 50%",
+        "Used 1-week Agile sprints to ensure continuous deployment of usable features, front-load completion of learning-rich user stories, provide client with a burn-up chart to facilitate budgeting decisions"
+      ]
+    },
+    {
+      "company": "Occupy Wall Street",
+      "position": "Activist & Researcher",
+      "startDate": "2011-09-17",
+      "endDate": "2013-05-01",
+      "summary": "Deployed and iterated on complex systems approaches to large-scale social change",
+      "highlights": [
+        "Conceived and project-managed Occupy The Boardroom, a web app that sent and displayed personal emails from ordinary people directly to the CEOs of the “Big Six” banks",
+        "Coordinated Occupy Sandy’s needs assessment canvass in the Far Rockaways, including design and implementation of distributed data-input system to support to overtaxed on-the-ground coordinators",
+        "Used NYC’s OpenData portal to research property ownership in Crown Heights in support of ongoing affordable housing campaigns; used research to write pamphlets, conduct teach-ins",
+        "Coordinated tactical framework development, trainings and communications infrastructure for mass mobilizations of tens of thousands of people in NYC’s financial district"
+
+      ]
+    },
+    {
+      "company": "New York Jobs with Justice",
+      "position": "Online Organizer",
+      "startDate": "2010-06-01",
+      "endDate": "2011-12-01",
+      "summary": "Managed online strategy for successful citywide campaign to keep Walmart out of New York City",
+      "highlights": [
+        "Generated 30,000 YouTube views for videos of flash mobs targeting possible Walmart business partners",
+        "Grew email list by 38%, Twitter following by 133%, Facebook group from 0 to 1250",
+        "Designed Facebook Ad program averaging $.30 Cost-Per-Acquisition rate",
+        "Led seminars at national conferences on Facebook Ad metrics for other grassroots organizations",
+        "Administered Wordpress site and CiviCRM database"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Harvard University",
+      "area": "Performance & Media Studies",
+      "studyType": "BA",
+      "startDate": "2000-09-01",
+      "endDate": "2007-06-01",
+      "courses": [
+        "Summa Cum Laude Senior Thesis",
+        "High Honors in Major"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Languages",
+      "level": "Master",
+      "keywords": [
+        "Scala",
+        "JavaScript",
+        "Ruby",
+        "Racket"
+      ]
+    },
+    {
+      "name": "Areas of Expertise",
+      "level": "Master",
+      "keywords": [
+        "Functional Programming",
+        "Full-stack Web Development",
+        "Network Programming",
+        "Unit Testing",
+        "Concurrency",
+        "Agile Development"
+      ]
+    }
+  ]
+}
