@@ -2,11 +2,11 @@
   "basics": {
     "name": "Austin Guest",
     "label": "Programmer",
-    "picture": "http://badideafactory.net/img/hsPic.jpg",
+    "picture": "http://badideafactory.net/img/hsPic2.jpg",
     "email": "guest.austin@gmail.com",
     "phone": "831.917.6400",
     "website": "http://github.com/aguestuser",
-    "summary": "Self-taught full-stack programmer who has learned four languages, test-driven development, Agile,  and functional programming in just under two years. Looking to continue building my toolkit and work on distributed systems with a team of friendly inquisitive people that are looking for a fast learner.",
+    "summary": "Self-taught full-stack programmer who has learned five languages, test-driven development, mobile development, basic algorithms, Agile, and functional programming in just under three years. Looking to continue building my toolkit and work on distributed systems with a team of friendly inquisitive people that are looking for a fast learner.",
     "location": {
       "address": "1407 Dean St., Apt 1",
       "postalCode": "11216",
@@ -21,11 +21,6 @@
         "url": "http://github.com/aguestuser"
       },
       {
-        "network": "LinkedIn",
-        "username": "austinguest",
-        "url": "https://www.linkedin.com/in/austinguest"
-      },
-      {
         "network": "Twitter",
         "username": "aguestuser",
         "url": "https://https://twitter.com/aguestuser"
@@ -34,9 +29,39 @@
   },
   "work": [
     {
-      "company": "Hacker School",
+      "company": "where@",
+      "position": "Co-founder, Tech Lead",
+      "website": "http://whereat.io",
+      "startDate": "2015-06-01",
+      "endDate": "2016-03-01",
+      "summary": "",
+      "highlights": [
+        "Designed and wrote prototype for full-stack realtime location sharing app, including native Android client, React-based web client, and Scala-based server using recently pioneered reactive programming paradigms",
+        "Coached, reviewed code, and built consensus around architecture and decign decisions with team of eight mid-level developers",
+        "Received mentorship in threat-modeling, cryptography, and security training from senior ACLU security technologists",        
+        "Designed and wrote full automated testing suite, including unit, integration, and load tests",
+        "Raised thousands of dollars in donations through handrolled Stripe-based extension to ghost.js blogging platform",
+        "Managing migration from native Android code base to hybrid iOS/Android React-Native stack using Redux for state management and FOSS alternatives to GoogleMaps and LocationProviders for enhanced security",
+        "Managing migration to continuous integration environment leveraging Go-CD, Docker, AWS, and eclips.is",
+        
+      ]
+    },
+    {
+      "company": "LittleSis",
+      "position": "Software Engineer",
+      "website": "http://littlesis.org",
+      "startDate": "2015-03-01",
+      "endDate": "2015-06-01",
+      "summary": "",
+      "highlights": [
+        "Designed and implemented user interface for vizualizing networks of corporate power as 'slide decks' of interactive maps interspersed with text",
+        "Re-designed the creation/editing interface for network maps and created plan to port from D3/jQuery to React"
+      ]
+    },
+    {
+      "company": "Recurse Center",
       "position": "Autodidact",
-      "website": "http://hackerschool.com",
+      "website": "http://recurse.com",
       "startDate": "2014-11-17",
       "endDate": "2015-02-16",
       "summary": "Mastered basic best practices in functional programming in Scala and JavaScript",
@@ -76,8 +101,9 @@
       ]
     },
     {
-      "company": "New York Jobs with Justice",
+      "company": "ALIGN",
       "position": "Online Organizer",
+      "website": "http://alignny.org",
       "startDate": "2010-06-01",
       "endDate": "2011-12-01",
       "summary": "Managed online strategy for successful citywide campaign to keep Walmart out of New York City",
@@ -109,6 +135,7 @@
       "level": "Master",
       "keywords": [
         "Scala",
+        "Java",
         "JavaScript",
         "Ruby",
         "Racket"
@@ -119,11 +146,16 @@
       "level": "Master",
       "keywords": [
         "Functional Programming",
-        "Full-stack Web Development",
-        "Network Programming",
-        "Unit Testing",
-        "Concurrency",
         "Agile Development"
+        "Full-stack Web Development",
+        "Mobile Development",
+        "Network Programming",
+        "Automated Testing",
+        "Actor-oriented programming",
+       " Reactive Programming",
+        "React",
+        "React-Native",
+        "Akka-Stream"
       ]
     }
   ]
