@@ -13,7 +13,7 @@
       "region": "New York"
     },
     "profiles": [
-      {x
+      {
         "network": "Github",
         "username": "aguestuser",
         "url": "https://github.com/aguestuser"
@@ -45,7 +45,7 @@
         "Wrote, grouped, and prioritized user stories and epics for four parallel development streams according to Agile best practices",
         "Developed public-facing ecosystem to optimize paths to access for outside contributors using cutting-edge OSS collaboration platforms (gitter.im, waffle.io, etc.)",
         "Conducted user tests in simulated and live protests to drive UX and design decisions",
-        "(Currently) implementing continuous delivery pipeline in Thoughtworks's gocd platform",
+        "(Currently) implementing continuous delivery pipeline using gocd, AWS, and Docker",
         "Contributed to gocd's documentation for custom TLS configuration and dockerized tests",
         "Wrote load tests in Gatling, used results to drive adoption of Kafka-backed distributed server architecture"
       ]
@@ -102,6 +102,34 @@
         "Used NYC’s OpenData portal to research property ownership in Crown Heights in support of ongoing affordable housing campaigns; used research to write pamphlets, conduct teach-ins",
         "Coordinated tactical framework development, trainings and communications infrastructure for mass mobilizations of tens of thousands of people in NYC’s financial district"
 
+      ]
+    },
+    {
+      "company":   "ALIGN (Jobs with Justice NYC)",
+      "position":  "Online Organizer",
+      "website":   "http://alignny.org",
+      "startDate": "2010-06-01",
+      "endDate":   "2011-12-01",
+      "summary":   "Managed online strategy for successful citywide campaign to keep Walmart out of New York City",
+      "highlights": [
+        "Generated 30,000 YouTube views for videos of flash mobs targeting possible Walmart business partners",
+        "Grew email list by 38%, Twitter following by 133%, Facebook group from 0 to 1250",
+        "Designed Facebook Ad program averaging $.30 Cost-Per-Acquisition rate",
+        "Led seminars at national conferences on Facebook Ad metrics for other grassroots organizations",
+        "Administered Wordpress site and CiviCRM database"
+      ]
+    },
+    {
+      "company":   "SEIU (Service Employees International Union)",
+      "position":  "Organizer",
+      "website":   "https://seiu.org",
+      "startDate": "2009-09-01",
+      "endDate":   "2009-03-01",
+      "summary": "Contributed to national campaign to organize Sodexo food service workers through on-the-ground committee building and leadership development",
+      "highlights": [
+        "Built relationships with 250-member worksite, built 10-member worker organizing committee",
+        "Trained and supervised 15-member regional student organizing committee",
+        "Conducted one-on-one meetings with workers, developed leaders, led committee meetings"
       ]
     }
   ],
