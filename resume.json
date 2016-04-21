@@ -57,10 +57,6 @@
       "startDate": "2015-03-01",
       "endDate": "2015-06-01",
       "summary": "Catalyzed migration from monolithic legacy code base to modular, testable design by designing and supervising port of one feature slice from PHP/jQuery to Rails/React",
-      "highlights": [
-        "Implemented React-based user interface for vizualizing corporate power networks as 'slide decks' of interactive maps interspersed with text",
-        "Supervised redesign of editing interface for network maps"
-      ]
     },
     {
       "company": "Recurse Center",
@@ -72,7 +68,6 @@
       "highlights": [
         "Wrote non-blocking chat server in Scala, using futures and a custom wrapper around Java’s NIO2 library",
         "Began work on a Scala BitTorrent client, including custom parser combinators and non-blocking socket IO",
-        "Wrote Node app for parsing and storing real estate data using a recursive interpreter pattern to enhance extensibility",
         "Completed readings and exercises on algorithms, data structures, function composition, monads, concurrency, and recursion"
       ]
     },
@@ -85,9 +80,8 @@
       "summary": "Learned full-stack web development, test-driven development, and agile project management",
       "highlights": [
         "Learned Ruby and built full-stack Rails app in 3 months",
-        "Automated conflict-checking and shift allocation procecures",
         "Reduced time needed to allocate 300-400 weekly shifts to 100-150 riders by over 50%",
-        "Used 1-week Agile sprints to ensure continuous deployment of usable features, front-load completion of learning-rich user stories, provide client with a burn-up chart to facilitate budgeting decisions"
+        "Used 1-week Agile sprints to ensure continuous deployment of usable features, front-load completion of learning-rich user stories, provide client with a burn-up chart"
       ]
     },
     {
@@ -110,14 +104,7 @@
       "website":   "http://alignny.org",
       "startDate": "2010-06-01",
       "endDate":   "2011-12-01",
-      "summary":   "Managed online strategy for successful citywide campaign to keep Walmart out of New York City",
-      "highlights": [
-        "Generated 30,000 YouTube views for videos of flash mobs targeting possible Walmart business partners",
-        "Grew email list by 38%, Twitter following by 133%, Facebook group from 0 to 1250",
-        "Designed Facebook Ad program averaging $.30 Cost-Per-Acquisition rate",
-        "Led seminars at national conferences on Facebook Ad metrics for other grassroots organizations",
-        "Administered Wordpress site and CiviCRM database"
-      ]
+      "summary":   "Managed online strategy for successful citywide campaign to keep Walmart out of New York City -- growing email list by 38% and generating tens of thousands of YouTube views",
     },
     {
       "company":   "SEIU (Service Employees International Union)",
@@ -126,11 +113,6 @@
       "startDate": "2009-09-01",
       "endDate":   "2009-03-01",
       "summary": "Contributed to national campaign to organize Sodexo food service workers through on-the-ground committee building and leadership development",
-      "highlights": [
-        "Built relationships with 250-member worksite, built 10-member worker organizing committee",
-        "Trained and supervised 15-member regional student organizing committee",
-        "Conducted one-on-one meetings with workers, developed leaders, led committee meetings"
-      ]
     }
   ],
   "education": [
@@ -169,13 +151,17 @@
         "Network Programming",
         "Automated Testing",
         "Object-Oriented Programming",
-        "Reactive Programming",
+        "Actor-Oriented Programming",
+        "Continuous Delivery",
+        "Akka-Streams"
         "React/Redux",
         "React-Native",
         "ES6",
         "Ruby-on-Rails",
-        "Continuous Delivery",
-        "AWS"
+        "AWS",
+        "Docker",
+        "Go-CD",
+        "Concourse"
       ]
     }
   ]
