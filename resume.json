@@ -5,8 +5,7 @@
     "picture": "https://whereat.io/content/images/2016/03/hs-profile.jpg",
     "email": "austin.guest@riseup.net",
     "phone": "831.917.6400",
-    "website": "http://github.com/aguestuser",
-    "summary": "Self-taught programmer who has learned five languages, full-stack web development, mobile development, functional programming, basic algorithms, and Agile development in three years. Looking to work on high social impact projects with a team of inquisitive, rigorous thinkers that love learning, communicate compassionately, and want to make the world a better place.",
+    "summary": "Fast-learning full-stack generalist with experience shipping working code using rigorous design and testing principles. Looking to work with a tight-knit autonomous team that values intellectual exploration, compassionate communication, and social justice.",
     "location": {
       "city": "Brooklyn",
       "countryCode": "US",
@@ -21,7 +20,7 @@
       {
         "network": "Twitter",
         "username": "aguestuser",
-        "url": "https://https://twitter.com/aguestuser"
+        "url": "https://twitter.com/aguestuser"
       },
       {
         "network": "LinkedIn",
@@ -37,50 +36,32 @@
       "website": "https://whereat.io",
       "startDate": "2015-06-01",
       "endDate": "2016-05-01",
-      "summary": "Conceived, architected, wrote prototype, and managed agile team for secure realtime location sharing app",
+      "summary": "Designed and shipped prototype for security-conscious location-sharing app",
       "highlights": [
-        "Wrote majority of code & documentation for multi-tiered secure mobile app, including mobile clients in Java and React Native, web app in React, reactive-streams-based server in Scala",
-        "Led team of eight volunteer developers from ThoughtWorks NYC -- including coaching, pairing, code review, and consensus-building around major architectural decisions",
-        "Received mentorship in threat-modeling, cryptography, and security training from renowned ACLU security technologist Daniel Kahn Gillmore",
-        "Wrote, grouped, and prioritized user stories and epics for four parallel development streams according to Agile best practices",
-        "Developed public-facing ecosystem to optimize paths to access for outside contributors using cutting-edge OSS collaboration platforms (gitter.im, waffle.io, etc.)",
-        "Conducted user tests in simulated and live protests to drive UX and design decisions",
-        "(Currently) implementing continuous delivery pipeline using gocd, AWS, and Docker",
-        "Contributed to gocd's documentation for custom TLS configuration and dockerized tests",
-        "Wrote load tests in Gatling, used results to drive adoption of Kafka-backed distributed server architecture"
+        "Wrote full-stack mobile app, including Android clients in Java and React Native, web app in React, and server in Scala using websockets and reactive streams to protect users by eliminating stored state on the server",
+        "Led team of 8 volunteer developers from ThoughtWorks NYC -- including coaching, pairing, code review, test harness design and coverage enforcement, drafting user stories and acceptance criteria, consensus-building around architectural decisions, coordinating work across 4 parallel dev streams",
+        "Received mentorship in threat-modeling, cryptography, and security training from senior Tor/ACLU security technologist Daniel Kahn Gillmore; supervised implementation of Public Key Pinning in Android, privacy-focused alternative to Google LocationProvider in React Native",
+        "Currently implementing: continuous delivery pipeline using gocd/AWS/Docker, Kafka-backed message brokering to enable horizontal scaling"
       ]
     },
     {
-      "company": "LittleSis",
-      "position": "Software Engineer",
+      "company": "LittleSis.org",
+      "position": "Contract Web Developer",
       "website": "https://littlesis.org",
       "startDate": "2015-03-01",
       "endDate": "2015-06-01",
-      "summary": "Catalyzed migration from monolithic legacy code base to modular, testable design by designing and supervising port of one feature slice from PHP/jQuery to Rails/React",
-    },
-    {
-      "company": "Recurse Center",
-      "position": "Autodidact",
-      "website": "https://recurse.com",
-      "startDate": "2014-11-17",
-      "endDate": "2015-02-16",
-      "summary": "Mastered basic best practices in functional programming in Scala and JavaScript",
-      "highlights": [
-        "Wrote non-blocking chat server in Scala, using futures and a custom wrapper around Java’s NIO2 library",
-        "Began work on a Scala BitTorrent client, including custom parser combinators and non-blocking socket IO",
-        "Completed readings and exercises on algorithms, data structures, function composition, monads, concurrency, and recursion"
-      ]
+      "summary": "Catalyzed migration from monolithic legacy code base to modular, testable design by designing and supervising port of one-feature vertical slice from PHP/jQuery to Rails/React",
+      "highlights": []
     },
     {
       "company": "BK Shift",
-      "position": "Software Engineer",
+      "position": "Contract Web Developer",
       "website": "http://bkshift.com",
       "startDate": "2014-01-01",
       "endDate": "2014-11-07",
-      "summary": "Learned full-stack web development, test-driven development, and agile project management",
+      "summary": "Delivered working full-stack Rails app in 3 months, used TDD and Agile best practices to meet evolving business needs over project lifetime.",
       "highlights": [
-        "Learned Ruby and built full-stack Rails app in 3 months",
-        "Reduced time needed to allocate 300-400 weekly shifts to 100-150 riders by over 50%",
+        "Helped double weekly revenues by reducing time needed to allocate 300-400 weekly shifts to 100-150 riders by over 50%",
         "Used 1-week Agile sprints to ensure continuous deployment of usable features, front-load completion of learning-rich user stories, provide client with a burn-up chart"
       ]
     },
@@ -99,23 +80,44 @@
       ]
     },
     {
-      "company":   "ALIGN (Jobs with Justice NYC)",
+      "company":   "Jobs with Justice NYC",
       "position":  "Online Organizer",
       "website":   "http://alignny.org",
       "startDate": "2010-06-01",
       "endDate":   "2011-12-01",
       "summary":   "Managed online strategy for successful citywide campaign to keep Walmart out of New York City -- growing email list by 38% and generating tens of thousands of YouTube views",
+      "highlights": []
     },
     {
-      "company":   "SEIU (Service Employees International Union)",
+      "company":   "Service Employees International Union",
       "position":  "Organizer",
       "website":   "https://seiu.org",
       "startDate": "2009-09-01",
-      "endDate":   "2009-03-01",
+      "endDate":   "2010-03-31",
       "summary": "Contributed to national campaign to organize Sodexo food service workers through on-the-ground committee building and leadership development",
+      "highlights": []
     }
   ],
   "education": [
+    {
+      "institution": "Recurse Center",
+      "area": "Programming Retreat",
+      "studyType": "",
+      "website": "https://recurse.com",
+      "startDate": "2014-11-17",
+      "endDate": "2015-02-16",
+      "gpa": "Wrote non-blocking chat server in Scala, using futures and a custom wrapper around Java’s NIO2 library; began work on a Scala BitTorrent client, including custom parser combinators and non-blocking socket IO; completed readings and exercises on algorithms, data structures, function composition, monads, concurrency, and recursion.",
+      "courses": []
+    },
+    {
+      "institution": "Guillaume Marceau (M.Sci., Brown)",
+      "area": "Weekly Private Mentoring",
+      "studyType": "",
+      "startDate": "2014-03-01",
+      "endDate": "2015-11-01",
+      "gpa": "Completed intensive project-driven training including code review and design critique in areas covering algorithms, complexity analysis, domain modeling, designing for extensibility and maintainability, test-driven development, agile project management, functional programming, SOLID object oriented principles, concurrency, distributed programming, etc.",
+      "courses": []
+    },
     {
       "institution": "Harvard University",
       "area": "Performance & Media Studies",
@@ -131,37 +133,83 @@
   "skills": [
     {
       "name": "Languages",
-      "level": "Master",
       "keywords": [
         "Scala",
         "Java",
-        "JavaScript",
+        "JavaScript/ES6",
         "Ruby",
+        "SQL",
         "Racket"
       ]
     },
     {
-      "name": "Areas of Expertise",
-      "level": "Master",
+      "name": "Paradigms",
       "keywords": [
-        "Functional Programming",
         "Agile Development",
+        "Functional Programming",
         "Full-stack Web Development",
         "Mobile Development",
         "Network Programming",
-        "Automated Testing",
         "Object-Oriented Programming",
         "Actor-Oriented Programming",
-        "Continuous Delivery",
-        "Akka-Streams"
-        "React/Redux",
+        "Reactive Programming"
+       ]
+    },
+    {
+      "name": "JVM Libraries",
+      "keywords": [
+        "Akka-Streams",
+        "Akka-Http",
+        "Slick",
+        "Play",
+        "Gatling",
+        "ScalaTest",
+        "RxJava",
+        "Retrofit",
+        "JUnit",
+        "Mockito",
+        "Robolectric"
+       ]
+    },
+    {
+      "name": "Javascript Libraries",
+      "keywords": [
+        "React",
         "React-Native",
-        "ES6",
-        "Ruby-on-Rails",
-        "AWS",
-        "Docker",
+        "Redux",
+        "Express",
+        "Lodash",
+        "Immutable.js",
+        "Webpack",
+        "Grunt",
+        "Mongoose",
+        "Mocha",
+        "Chai",
+        "Sinon"
+       ]
+    },
+    {
+      "name": "Dev Ops",
+      "keywords": [
+        "Continuous Delivery",
+        "Automated Testing",
         "Go-CD",
-        "Concourse"
+        "Concourse.ci",
+        "Docker",
+        "AWS",
+        "Nginx",
+        "DigitalOcean"
+      ]
+    },
+    {
+      "name": "Security",
+      "keywords": [
+        "Certificate & Public Key Pinning",
+        "SSL/TLS configuration",
+        "Stanford Javascript Crypto Library",
+        "NaCl/Libsodium",
+        "Signal Protocol",
+        "Threat Modeling"
       ]
     }
   ]
