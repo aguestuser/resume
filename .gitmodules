@@ -1,0 +1,3 @@
+[submodule "resume-generator"]
+	path = resume-generator
+	url = git@github.com:aguestuser/resume-generator.git
